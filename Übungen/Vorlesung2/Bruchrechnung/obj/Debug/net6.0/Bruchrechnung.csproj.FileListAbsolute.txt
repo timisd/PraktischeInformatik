@@ -1,0 +1,12 @@
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\bin\Debug\net6.0\Bruchrechnung.deps.json
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\bin\Debug\net6.0\Bruchrechnung.dll
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\bin\Debug\net6.0\Bruchrechnung.pdb
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.AssemblyInfo.cs
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.dll
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\refint\Bruchrechnung.dll
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\Bruchrechnung.pdb
+C:\Users\Tim\Desktop\Code\PraktischeInformatik\Übungen\Vorlesung2\Bruchrechnung\obj\Debug\net6.0\ref\Bruchrechnung.dll
