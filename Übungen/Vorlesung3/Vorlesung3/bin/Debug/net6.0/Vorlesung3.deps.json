@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vorlesung3/1.0.0": {
+        "runtime": {
+          "Vorlesung3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vorlesung3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
